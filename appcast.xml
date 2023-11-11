@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AnySelect</title>
+        <item>
+            <title>1.2.2</title>
+            <pubDate>Fri, 10 Nov 2023 23:39:19 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.2.2/AnySelect.dmg" length="3044862" type="application/octet-stream" sparkle:edSignature="RJs3vw7lKaycltHWhSwQeFyd8TcfOntTPHDMYBfLUHFfyrpC5MFqgzAPXmUhVtn6REy67DVSGjuxs4mdH/laAg=="/>
+        </item>
+    </channel>
+</rss>

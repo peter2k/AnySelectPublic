@@ -3,6 +3,14 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>1.4</title>
+            <pubDate>Mon, 27 Nov 2023 00:32:08 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.4.0/AnySelect.dmg" length="3136239" type="application/octet-stream" sparkle:edSignature="jBS/zIHlya8yHYdzUiM5jmJaqlQnOgwRese0e5WJMOQcV7q8xTq9ghZO5yeyb/FEddckVX4yVH1WT5RSN21rBw=="/>
+        </item>
+        <item>
             <title>1.3</title>
             <pubDate>Sun, 19 Nov 2023 01:17:40 +0100</pubDate>
             <sparkle:version>7</sparkle:version>

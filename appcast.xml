@@ -10,8 +10,8 @@
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.4.1/AnySelect.dmg" length="3142937" type="application/octet-stream" sparkle:edSignature="+p1eMx1cnBeF9iMdOgrzQHw8GmhVe6rons7mKfCC+yus9uWXx3MfRMsqf5DhI2wK5HyvoLLc1RxAGzqxWNAnAA=="/>
             <description sparkle:format="plain-text">
-                - New: Hold the option key ⌥ while selecting a command to insert the result directly into the currently focused field.
-                - Fixed a bug where the actions pane cannot be dismissed using the ESC key.
+- New: Hold the option key ⌥ while selecting a command to insert the result directly into the currently focused field.
+- Fixed a bug where the actions pane cannot be dismissed using the ESC key.
             </description>
             <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
         </item>
@@ -23,10 +23,10 @@
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.4.0/AnySelect.dmg" length="3136239" type="application/octet-stream" sparkle:edSignature="jBS/zIHlya8yHYdzUiM5jmJaqlQnOgwRese0e5WJMOQcV7q8xTq9ghZO5yeyb/FEddckVX4yVH1WT5RSN21rBw=="/>
             <description sparkle:format="plain-text">
-                - Added a popup to search and select quick actions (Use CMD + L to activate).
-                - Added an action to transfer a session from the quick command pane to a separate window.
-                - Added an action to paste the current result into the frontmost app.
-                - Fixed many bugs.
+- Added a popup to search and select quick actions (Use CMD + L to activate).
+- Added an action to transfer a session from the quick command pane to a separate window.
+- Added an action to paste the current result into the frontmost app.
+- Fixed many bugs.
             </description>
             <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
         </item>
@@ -38,9 +38,9 @@
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.3.0/AnySelect.dmg" length="3051433" type="application/octet-stream" sparkle:edSignature="3UrscEoyRdzp74c65lkQKTLEvBW2vPSso+OD7fOG2qpaFz2CnadDiNWE+t3bp1r57SqrlmqQfI7mLNdC9XdOAw=="/>
             <description sparkle:format="plain-text">
-                - AnySelect can now update itself.
-                - Added an option to hide the dock icon in the settings
-                - Added an option to disable autosave of quick commands in the settings
+- AnySelect can now update itself.
+- Added an option to hide the dock icon in the settings
+- Added an option to disable autosave of quick commands in the settings
             </description>
             <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
         </item>

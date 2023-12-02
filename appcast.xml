@@ -3,6 +3,21 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.4.3</title>
+            <pubDate>Sat, 02 Dec 2023 01:43:05 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.4.3/AnySelect.dmg" length="3185618" type="application/octet-stream" sparkle:edSignature="uQpLFQBtWF8OF/GthpKcVxfWrzlT9f/e2ftoFCPn++zGBrwbzl3697XmwyUq6uv8JEq2pZhEpvRmgJBfeEtoAw=="/>
+            <description sparkle:format="plain-text">
+- Tap ESC to stop generating during inline insertion.
+- Use a double press of CMD, Option, or Control as a shortcut.
+- The quick command window can now be set to always stay on top.
+- Fixed: The Quick command window does not show any errors if there are any available.
+            </description>
+            <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.4.2</title>
             <pubDate>Wed, 29 Nov 2023 01:43:48 +0100</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -27,21 +42,6 @@
             <description sparkle:format="plain-text">
 - New: Hold the option key ⌥ while selecting a command to insert the result directly into the currently focused field.
 - Fixed a bug where the actions pane cannot be dismissed using the ESC key.
-            </description>
-            <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.4</title>
-            <pubDate>Mon, 27 Nov 2023 00:32:08 +0100</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.4.0/AnySelect.dmg" length="3136239" type="application/octet-stream" sparkle:edSignature="jBS/zIHlya8yHYdzUiM5jmJaqlQnOgwRese0e5WJMOQcV7q8xTq9ghZO5yeyb/FEddckVX4yVH1WT5RSN21rBw=="/>
-            <description sparkle:format="plain-text">
-- Added a popup to search and select quick actions (Use CMD + L to activate).
-- Added an action to transfer a session from the quick command pane to a separate window.
-- Added an action to paste the current result into the frontmost app.
-- Fixed many bugs.
             </description>
             <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
         </item>

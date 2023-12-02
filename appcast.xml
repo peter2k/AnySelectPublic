@@ -3,6 +3,20 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.4.4</title>
+            <pubDate>Sun, 03 Dec 2023 00:13:22 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.4.4/AnySelect.dmg" length="3361477" type="application/octet-stream" sparkle:edSignature="0NhHbuQOtL3riYoEGJnWVlXHWJoDF3odPYfWOcZRyXBanfYOpBHS7/g03nE4HXJ8BXOGJTJWmBCGSq8je56vAQ=="/>
+            <description sparkle:format="plain-text">
+- Show random symbols on the empty state for fun :)
+- Fetching the selected text now works more reliably.
+- Some small UI enhancements.
+            </description>
+            <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.4.3</title>
             <pubDate>Sat, 02 Dec 2023 01:43:05 +0100</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -29,19 +43,6 @@
 - Hold the option key ⌥ and shift key ⇧ while selecting a command to replace the selected text with the result.
 - Commands are only automatically saved if they have a context attached.
 - Added feedback when an error happened.
-            </description>
-            <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.4.1</title>
-            <pubDate>Tue, 28 Nov 2023 01:00:54 +0100</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.4.1/AnySelect.dmg" length="3142937" type="application/octet-stream" sparkle:edSignature="+p1eMx1cnBeF9iMdOgrzQHw8GmhVe6rons7mKfCC+yus9uWXx3MfRMsqf5DhI2wK5HyvoLLc1RxAGzqxWNAnAA=="/>
-            <description sparkle:format="plain-text">
-- New: Hold the option key ⌥ while selecting a command to insert the result directly into the currently focused field.
-- Fixed a bug where the actions pane cannot be dismissed using the ESC key.
             </description>
             <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
         </item>

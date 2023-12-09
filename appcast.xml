@@ -3,6 +3,21 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.4.5</title>
+            <pubDate>Sun, 10 Dec 2023 00:50:58 +0100</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.4.5/AnySelect.dmg" length="3356253" type="application/octet-stream" sparkle:edSignature="0fB0/41REulCdKxZrkTp9ZqTbwKhkLSB0AGq9xe7dp5uG+DxczutakjoeRW44G84xQUByL0SH/QcRoUfbuWCCA=="/>
+            <description sparkle:format="plain-text">
+- Added an option to show the context menu using Cmd + Shift + Click.
+- The model is no longer a part of a command but is now a part of the window.
+- The last selected model will be persisted for the next time.
+- Bug fixes.
+            </description>
+            <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.4.4</title>
             <pubDate>Sun, 03 Dec 2023 00:13:22 +0100</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -28,21 +43,6 @@
 - Use a double press of CMD, Option, or Control as a shortcut.
 - The quick command window can now be set to always stay on top.
 - Fixed: The Quick command window does not show any errors if there are any available.
-            </description>
-            <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.4.2</title>
-            <pubDate>Wed, 29 Nov 2023 01:43:48 +0100</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.4.2/AnySelect.dmg" length="3147696" type="application/octet-stream" sparkle:edSignature="P4WvZAKKoyhZeG4VH19sF2XvUi9wk0xPDyTxDmoSrzsPwsxhP6ov8Rb7mzEuaEGWYj7zCqKQZhKdd9qbJqNoAg=="/>
-            <description sparkle:format="plain-text">
-- Hold the option key ⌥ while selecting a command to insert the result immediately after the selected text.
-- Hold the option key ⌥ and shift key ⇧ while selecting a command to replace the selected text with the result.
-- Commands are only automatically saved if they have a context attached.
-- Added feedback when an error happened.
             </description>
             <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
         </item>

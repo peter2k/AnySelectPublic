@@ -3,6 +3,20 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.5</title>
+            <pubDate>Sun, 17 Dec 2023 01:42:51 +0100</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.5/AnySelect.dmg" length="3401086" type="application/octet-stream" sparkle:edSignature="NHYsjQiJxC24pClpeMzuyaMQMZa+cwgJSdTeGncN5x/5BU2Bw8vDhDlvwpff1EHHoq9+R1fqJqcBSc72yyYWCQ=="/>
+            <description sparkle:format="plain-text">
+- Added support for vision model (still buggy)
+- Take screenshot from Quick Command Window
+- Bug fixes
+            </description>
+            <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.4.5</title>
             <pubDate>Sun, 10 Dec 2023 00:50:58 +0100</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -28,21 +42,6 @@
 - Show random symbols on the empty state for fun :)
 - Fetching the selected text now works more reliably.
 - Some small UI enhancements.
-            </description>
-            <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.4.3</title>
-            <pubDate>Sat, 02 Dec 2023 01:43:05 +0100</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.4.3/AnySelect.dmg" length="3185618" type="application/octet-stream" sparkle:edSignature="uQpLFQBtWF8OF/GthpKcVxfWrzlT9f/e2ftoFCPn++zGBrwbzl3697XmwyUq6uv8JEq2pZhEpvRmgJBfeEtoAw=="/>
-            <description sparkle:format="plain-text">
-- Tap ESC to stop generating during inline insertion.
-- Use a double press of CMD, Option, or Control as a shortcut.
-- The quick command window can now be set to always stay on top.
-- Fixed: The Quick command window does not show any errors if there are any available.
             </description>
             <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
         </item>

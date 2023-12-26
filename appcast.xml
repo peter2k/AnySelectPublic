@@ -3,6 +3,21 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.5.2</title>
+            <pubDate>Tue, 26 Dec 2023 17:02:43 +0100</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.5.2/AnySelect.dmg" length="3417018" type="application/octet-stream" sparkle:edSignature="75ENsktj1+RXcPq+DHskh4VYEbWrf5dP+pZAMuJ1AdkL0FO9Ljt2u8MTKRcgZpNAl4yO4CG88CKQGYhos2I0Cw=="/>
+            <description sparkle:format="plain-text">
+- Added setting to set app's appearance to light or dark
+- Fixed auto reverted setting "Auto save Quick Commands"
+- Fixed commands are still visible even when set to hidden
+- Fixed ui glitch when editing a command in the command tab
+            </description>
+            <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.5.1</title>
             <pubDate>Wed, 20 Dec 2023 20:25:53 +0100</pubDate>
             <sparkle:version>15</sparkle:version>
@@ -25,21 +40,6 @@
 - Added support for vision model (still buggy)
 - Take screenshot from Quick Command Window
 - Bug fixes
-            </description>
-            <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.4.5</title>
-            <pubDate>Sun, 10 Dec 2023 00:50:58 +0100</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.4.5/AnySelect.dmg" length="3356253" type="application/octet-stream" sparkle:edSignature="0fB0/41REulCdKxZrkTp9ZqTbwKhkLSB0AGq9xe7dp5uG+DxczutakjoeRW44G84xQUByL0SH/QcRoUfbuWCCA=="/>
-            <description sparkle:format="plain-text">
-- Added an option to show the context menu using Cmd + Shift + Click.
-- The model is no longer a part of a command but is now a part of the window.
-- The last selected model will be persisted for the next time.
-- Bug fixes.
             </description>
             <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
         </item>

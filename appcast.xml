@@ -3,6 +3,21 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.6.0</title>
+            <pubDate>Mon, 01 Jan 2024 01:22:45 +0100</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.6.0/AnySelect.dmg" length="3479759" type="application/octet-stream" sparkle:edSignature="C6IYKoLHN1geobrIrtEA+bhpLNxeVhmzmzdPtz6hIYAwK/blenfhXk35nVxDfM4IagB3ji3Me5AI37v5AMzbDg=="/>
+            <description sparkle:format="plain-text">
+- Now you can optionally specify which model to use for each command.
+- Improved detection of selected text.
+- Custom base URL for OpenAI: use this if you want to use your offline model, for example, with https://lmstudio.ai/.
+- Many bug fixes.
+            </description>
+            <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.5.3</title>
             <pubDate>Thu, 28 Dec 2023 02:53:44 +0100</pubDate>
             <sparkle:version>17</sparkle:version>
@@ -27,18 +42,6 @@
 - Fixed auto reverted setting "Auto save Quick Commands"
 - Fixed commands are still visible even when set to hidden
 - Fixed ui glitch when editing a command in the command tab
-            </description>
-            <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.5.1</title>
-            <pubDate>Wed, 20 Dec 2023 20:25:53 +0100</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.5.1/AnySelect.dmg" length="3401381" type="application/octet-stream" sparkle:edSignature="thtwQHZXmYXyLgsabX4fOS6QTxc1eGbpoMB8eT/OKpJYccjN1qcFlbWHR7ZQUpec+0o8tCMMtj60v3bF1vJuAA=="/>
-            <description sparkle:format="plain-text">
-- gpt4_vision_preview is now working properly
             </description>
             <sparkle:fullReleaseNotesLink>http://releases.anyselectai.com/</sparkle:fullReleaseNotesLink>
         </item>

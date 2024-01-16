@@ -3,6 +3,22 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.7.1</title>
+            <pubDate>Wed, 17 Jan 2024 00:17:56 +0100</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.7.1/AnySelect.dmg" length="3693090" type="application/octet-stream" sparkle:edSignature="lOacMBpWsf0uuEk/WwcBKg68JkdUxUeao726ywHs2ZZg4+4rgnf9mD3zt3JDPbmgD3jJNnw2AO52vykluLgbAg=="/>
+            <description sparkle:format="plain-text">
+- Responses now look more beautiful with code highlighting and markdown support.
+- Use CMD + L to quickly switch between assistants and models.
+- Now you can optionally show the chat history.
+- Use CMD + S to copy the current response.
+- A set of default assistants will be automatically added if you have never created an assistant before.
+            </description>
+            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.7</title>
             <pubDate>Sun, 14 Jan 2024 00:55:51 +0100</pubDate>
             <sparkle:version>20</sparkle:version>
@@ -25,21 +41,6 @@
             <description sparkle:format="plain-text">
 - Bug fixes
 - UI improvements
-            </description>
-            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.6.0</title>
-            <pubDate>Mon, 01 Jan 2024 01:22:45 +0100</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.6.0/AnySelect.dmg" length="3479759" type="application/octet-stream" sparkle:edSignature="C6IYKoLHN1geobrIrtEA+bhpLNxeVhmzmzdPtz6hIYAwK/blenfhXk35nVxDfM4IagB3ji3Me5AI37v5AMzbDg=="/>
-            <description sparkle:format="plain-text">
-- Now you can optionally specify which model to use for each command.
-- Improved detection of selected text.
-- Custom base URL for OpenAI: use this if you want to use your offline model, for example, with https://lmstudio.ai/.
-- Many bug fixes.
             </description>
             <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
         </item>

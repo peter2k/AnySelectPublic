@@ -3,6 +3,20 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.7.3</title>
+            <pubDate>Wed, 31 Jan 2024 23:48:10 +0100</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.7.3/AnySelect.dmg" length="3686947" type="application/octet-stream" sparkle:edSignature="kO2krtpLDl2DFUC/JasOX1hBgCypIt6nD1V8UcavVPFi+4S/F4+avktS9ZGKVT4RNzRRQs4rXx5ZV5NWHLA4Bg=="/>
+            <description sparkle:format="plain-text">
+- Fixed an issue where the response from OpenAI could not be parsed.
+- New: You can click on the empty screen of the QuickCommand window to enter the context manually.
+- Added new model: gpt-4-turbo-preview, gpt-3.5-turbo-0125
+            </description>
+            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.7.2</title>
             <pubDate>Wed, 17 Jan 2024 00:33:50 +0100</pubDate>
             <sparkle:version>22</sparkle:version>

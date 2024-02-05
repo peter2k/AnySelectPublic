@@ -3,6 +3,21 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.7.4</title>
+            <pubDate>Tue, 06 Feb 2024 00:43:11 +0100</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.7.4/AnySelect.dmg" length="3766535" type="application/octet-stream" sparkle:edSignature="Dp59UFCyKz5MxSVAUUUi74ZkISZXlk2QRTpyGNngLSXewro/TmOr4+LmoyR5M1scS9p68Ta6K8GOEZGIUr7yBA=="/>
+            <description sparkle:format="plain-text">
+- NEW: Right-click on the dock icon to show the list of commands.
+- NEW: Now you can drop an image onto the dock icon then ask questions about it.
+- CHANGED: The quick command window is now the main window. Use the menu bar to create a stand-alone window if needed.
+- FIXED: The response is not visible if it is too short.
+            </description>
+            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.7.3</title>
             <pubDate>Wed, 31 Jan 2024 23:48:10 +0100</pubDate>
             <sparkle:version>24</sparkle:version>
@@ -29,19 +44,6 @@
 - Now you can optionally show the chat history.
 - Use CMD + S to copy the current response.
 - A set of default assistants will be automatically added if you have never created an assistant before.
-            </description>
-            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.7</title>
-            <pubDate>Sun, 14 Jan 2024 00:55:51 +0100</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.7.0/AnySelect.dmg" length="3549207" type="application/octet-stream" sparkle:edSignature="cw5RDwypyK3Uj7S3yyE/Zbkhr5XjdMo6E/+zC7QDYxsX4xdYjDzD604Q+9Mr/12eVRy+Q/v6eYRV95y2xnbZBw=="/>
-            <description sparkle:format="plain-text">
-- Now you can add your own Assistant and use it in the quick command window.
-- If you need any help or have any feedback, in this version, I added a button to send feedback directly from the app.
             </description>
             <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
         </item>

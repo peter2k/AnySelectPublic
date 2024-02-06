@@ -3,6 +3,18 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.7.5</title>
+            <pubDate>Tue, 06 Feb 2024 23:09:02 +0100</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.7.5/AnySelect.dmg" length="3764390" type="application/octet-stream" sparkle:edSignature="sIGWhp05Rl+dRtZJTKjzfh/z5ea8pF1B9sSq34pqoMl2BhDnrhuBk7FNQtFENilDPXQ1rZeRCZSBDhfyoYBABg=="/>
+            <description sparkle:format="plain-text">
+- Fixed: In version 1.7.4, the feature to take a screenshot and use it as context was broken. However, it is now fixed.
+            </description>
+            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.7.4</title>
             <pubDate>Tue, 06 Feb 2024 00:43:11 +0100</pubDate>
             <sparkle:version>25</sparkle:version>
@@ -28,22 +40,6 @@
 - Fixed an issue where the response from OpenAI could not be parsed.
 - New: You can click on the empty screen of the QuickCommand window to enter the context manually.
 - Added new model: gpt-4-turbo-preview, gpt-3.5-turbo-0125
-            </description>
-            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.7.2</title>
-            <pubDate>Wed, 17 Jan 2024 00:33:50 +0100</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.7.2/AnySelect.dmg" length="3693223" type="application/octet-stream" sparkle:edSignature="XrMis7QEH1Z6O47QpfEzuqf/ZGmWZU9P5/9gJiym2I1fVYhIe4sKRxg4fgZqA9Ga+rDXTxaYgk6O51bBn0LiAA=="/>
-            <description sparkle:format="plain-text">
-- Responses now look more beautiful with code highlighting and markdown support.
-- Use CMD + L to quickly switch between assistants and models.
-- Now you can optionally show the chat history.
-- Use CMD + S to copy the current response.
-- A set of default assistants will be automatically added if you have never created an assistant before.
             </description>
             <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
         </item>

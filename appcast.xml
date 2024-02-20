@@ -3,6 +3,20 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.7.6</title>
+            <pubDate>Tue, 20 Feb 2024 01:39:10 +0100</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.7.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://peter2k.github.io/AnySelectPublic/AnySelect.dmg" length="3875317" type="application/octet-stream" sparkle:edSignature="PukM7AxDD1zs7E+SUFu+y3lkYr59NrJdr5lJiE/bHsuddA52uIyuvIwJ9HJIfO+2Mu3zdR8C7j6NYrXwqx4yBQ=="/>
+            <description sparkle:format="plain-text">
+- NEW: AnySelect is now compatible with Ollama (https://ollama.com/).
+- FIXED: Response cannot be rendered if it is too short.
+- CHANGED: Multi-state for clear action: First trigger clears response, second trigger clears context. 
+            </description>
+            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.7.5</title>
             <pubDate>Tue, 06 Feb 2024 23:09:02 +0100</pubDate>
             <sparkle:version>26</sparkle:version>
@@ -26,20 +40,6 @@
 - NEW: Now you can drop an image onto the dock icon then ask questions about it.
 - CHANGED: The quick command window is now the main window. Use the menu bar to create a stand-alone window if needed.
 - FIXED: The response is not visible if it is too short.
-            </description>
-            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.7.3</title>
-            <pubDate>Wed, 31 Jan 2024 23:48:10 +0100</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.7.3/AnySelect.dmg" length="3686947" type="application/octet-stream" sparkle:edSignature="kO2krtpLDl2DFUC/JasOX1hBgCypIt6nD1V8UcavVPFi+4S/F4+avktS9ZGKVT4RNzRRQs4rXx5ZV5NWHLA4Bg=="/>
-            <description sparkle:format="plain-text">
-- Fixed an issue where the response from OpenAI could not be parsed.
-- New: You can click on the empty screen of the QuickCommand window to enter the context manually.
-- Added new model: gpt-4-turbo-preview, gpt-3.5-turbo-0125
             </description>
             <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
         </item>

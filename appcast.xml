@@ -8,7 +8,7 @@
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>1.7.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://peter2k.github.io/AnySelectPublic/AnySelect.dmg" length="3875317" type="application/octet-stream" sparkle:edSignature="PukM7AxDD1zs7E+SUFu+y3lkYr59NrJdr5lJiE/bHsuddA52uIyuvIwJ9HJIfO+2Mu3zdR8C7j6NYrXwqx4yBQ=="/>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.7.6/AnySelect.dmg" length="3875317" type="application/octet-stream" sparkle:edSignature="PukM7AxDD1zs7E+SUFu+y3lkYr59NrJdr5lJiE/bHsuddA52uIyuvIwJ9HJIfO+2Mu3zdR8C7j6NYrXwqx4yBQ=="/>
             <description sparkle:format="plain-text">
 - NEW: AnySelect is now compatible with Ollama (https://ollama.com/).
 - FIXED: Response cannot be rendered if it is too short.

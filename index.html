@@ -83,7 +83,6 @@
           >
           <video class="aspect-video" x-init="$watch('videoSrc', () => $el.load()); $watch('modalOpen', function(value) { if (value) {$el.play()} else {$el.pause();$el.currentTime = 0;} })" width="1920" height="1080" controls>
             <source x-bind:src="videoSrc" type="video/mp4" />
-            Your browser does not support the video tag.
           </video>
         </div>
       </div>

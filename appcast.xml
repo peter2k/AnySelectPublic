@@ -3,6 +3,18 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.8</title>
+            <pubDate>Wed, 21 Feb 2024 23:41:04 +0100</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.8.0/AnySelect.dmg" length="3937575" type="application/octet-stream" sparkle:edSignature="H5jHRvAg7TCEH3xB4yyu2PcwZbut0MNRGrqzxPt9MTS9XOmKWd6F6j4uvjLaRvvU0wKqjdVlyPzFdZN3beGBAw=="/>
+            <description sparkle:format="plain-text">
+- Ollama now has its own tab in Settings
+            </description>
+            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.7.6</title>
             <pubDate>Tue, 20 Feb 2024 01:39:10 +0100</pubDate>
             <sparkle:version>27</sparkle:version>
@@ -25,21 +37,6 @@
             <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.7.5/AnySelect.dmg" length="3764390" type="application/octet-stream" sparkle:edSignature="sIGWhp05Rl+dRtZJTKjzfh/z5ea8pF1B9sSq34pqoMl2BhDnrhuBk7FNQtFENilDPXQ1rZeRCZSBDhfyoYBABg=="/>
             <description sparkle:format="plain-text">
 - Fixed: In version 1.7.4, the feature to take a screenshot and use it as context was broken. However, it is now fixed.
-            </description>
-            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.7.4</title>
-            <pubDate>Tue, 06 Feb 2024 00:43:11 +0100</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.7.4/AnySelect.dmg" length="3766535" type="application/octet-stream" sparkle:edSignature="Dp59UFCyKz5MxSVAUUUi74ZkISZXlk2QRTpyGNngLSXewro/TmOr4+LmoyR5M1scS9p68Ta6K8GOEZGIUr7yBA=="/>
-            <description sparkle:format="plain-text">
-- NEW: Right-click on the dock icon to show the list of commands.
-- NEW: Now you can drop an image onto the dock icon then ask questions about it.
-- CHANGED: The quick command window is now the main window. Use the menu bar to create a stand-alone window if needed.
-- FIXED: The response is not visible if it is too short.
             </description>
             <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
         </item>

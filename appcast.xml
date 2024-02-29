@@ -3,6 +3,19 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.8.1</title>
+            <pubDate>Thu, 29 Feb 2024 23:55:22 +0100</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.8.1/AnySelect.dmg" length="3946833" type="application/octet-stream" sparkle:edSignature="+HfH0I/wfLiUg2D1BoHnehVRIpp9fBX2WFWt/niZXSi0V2R4OZMZURdX+VTUYG+Cmz1esYkPUMQ2vEerVEOMDg=="/>
+            <description sparkle:format="plain-text">
+- Advanced settings can now be found in the Advanced tab.
+- Added an option to activate the Quick Command Window when your mouse is moved near the screen edges. This feature is deactivated by default and can be activated in Settings. 
+            </description>
+            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.8</title>
             <pubDate>Wed, 21 Feb 2024 23:41:04 +0100</pubDate>
             <sparkle:version>28</sparkle:version>
@@ -25,18 +38,6 @@
 - NEW: AnySelect is now compatible with Ollama (https://ollama.com/).
 - FIXED: Response cannot be rendered if it is too short.
 - CHANGED: Multi-state for clear action: First trigger clears response, second trigger clears context. 
-            </description>
-            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.7.5</title>
-            <pubDate>Tue, 06 Feb 2024 23:09:02 +0100</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.7.5/AnySelect.dmg" length="3764390" type="application/octet-stream" sparkle:edSignature="sIGWhp05Rl+dRtZJTKjzfh/z5ea8pF1B9sSq34pqoMl2BhDnrhuBk7FNQtFENilDPXQ1rZeRCZSBDhfyoYBABg=="/>
-            <description sparkle:format="plain-text">
-- Fixed: In version 1.7.4, the feature to take a screenshot and use it as context was broken. However, it is now fixed.
             </description>
             <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
         </item>

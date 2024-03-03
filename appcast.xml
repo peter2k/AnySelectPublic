@@ -3,6 +3,18 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.9</title>
+            <pubDate>Sun, 03 Mar 2024 01:27:44 +0100</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.9.0/AnySelect.dmg" length="4000372" type="application/octet-stream" sparkle:edSignature="jBEQxmMhADK/XxmVEdi3hpTrtwhxfXtKijo9qiyxVgt1OFPnwHvhaEZDVaCJNnGQBR1/SU5Tlx0gFq8EkmFfAA=="/>
+            <description sparkle:format="plain-text">
+- Added Web Mode for ChatGPT, Gemini, Copilot, and Poe. Repeat your Quick Command shortcut twice to open.
+            </description>
+            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.8.1</title>
             <pubDate>Thu, 29 Feb 2024 23:55:22 +0100</pubDate>
             <sparkle:version>29</sparkle:version>
@@ -24,20 +36,6 @@
             <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.8.0/AnySelect.dmg" length="3937575" type="application/octet-stream" sparkle:edSignature="H5jHRvAg7TCEH3xB4yyu2PcwZbut0MNRGrqzxPt9MTS9XOmKWd6F6j4uvjLaRvvU0wKqjdVlyPzFdZN3beGBAw=="/>
             <description sparkle:format="plain-text">
 - Ollama now has its own tab in Settings
-            </description>
-            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.7.6</title>
-            <pubDate>Tue, 20 Feb 2024 01:39:10 +0100</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>1.7.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.7.6/AnySelect.dmg" length="3875317" type="application/octet-stream" sparkle:edSignature="PukM7AxDD1zs7E+SUFu+y3lkYr59NrJdr5lJiE/bHsuddA52uIyuvIwJ9HJIfO+2Mu3zdR8C7j6NYrXwqx4yBQ=="/>
-            <description sparkle:format="plain-text">
-- NEW: AnySelect is now compatible with Ollama (https://ollama.com/).
-- FIXED: Response cannot be rendered if it is too short.
-- CHANGED: Multi-state for clear action: First trigger clears response, second trigger clears context. 
             </description>
             <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
         </item>

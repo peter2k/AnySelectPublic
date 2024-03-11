@@ -3,6 +3,22 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>Version 1.10</title>
+            <pubDate>Mon, 11 Mar 2024 22:26:39 +0100</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.10.0/AnySelect.dmg" length="4037030" type="application/octet-stream" sparkle:edSignature="8qep6UNUuz+RTeRO0cGwFcMMDL0z8JRIzPLsXq4lF7VdAcIm3kF6PYInAIC+1/Su3R01LNlVqE5JF+dVdU1PAw=="/>
+            <description sparkle:format="plain-text">
+- Now you can add custom websites in Web Mode.
+- The window in Web Mode now has a button to always keep the window on top.
+- The last selected tab of Web Mode is now persisted between app launches.
+- CHANGED: Clicking the dock icon now shows Web Mode instead of the quick command window.
+- FIXED: Corrected a bug where the host of "ollama" could not be saved. 
+            </description>
+            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.9</title>
             <pubDate>Sun, 03 Mar 2024 01:27:44 +0100</pubDate>
             <sparkle:version>30</sparkle:version>
@@ -24,18 +40,6 @@
             <description sparkle:format="plain-text">
 - Advanced settings can now be found in the Advanced tab.
 - Added an option to activate the Quick Command Window when your mouse is moved near the screen edges. This feature is deactivated by default and can be activated in Settings. 
-            </description>
-            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.8</title>
-            <pubDate>Wed, 21 Feb 2024 23:41:04 +0100</pubDate>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.8.0/AnySelect.dmg" length="3937575" type="application/octet-stream" sparkle:edSignature="H5jHRvAg7TCEH3xB4yyu2PcwZbut0MNRGrqzxPt9MTS9XOmKWd6F6j4uvjLaRvvU0wKqjdVlyPzFdZN3beGBAw=="/>
-            <description sparkle:format="plain-text">
-- Ollama now has its own tab in Settings
             </description>
             <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
         </item>

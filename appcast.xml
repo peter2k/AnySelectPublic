@@ -3,6 +3,20 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>1.11.1</title>
+            <pubDate>Fri, 19 Apr 2024 00:00:58 +0200</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.11.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.11.1/AnySelect.dmg" length="3672261" type="application/octet-stream" sparkle:edSignature="xk/UpfjWz7qNXh2a54SLHv6yM8DRjb4xRJIre0rcwptCmUKeT7gxat3QlAbhZwBZAI7tiVFtXhtR8gUdFu5CCQ=="/>
+            <description sparkle:format="plain-text">
+- Now you can resize your input image in vision models to reduce costs.
+- Added more double-tap shortcuts: Right CMD, Right Control, Right Option.
+- Fixed a bug where double-tap keyboard shortcuts are conflicting with Keyboard Maestro.
+            </description>
+            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
+        </item>
+        <item>
             <title>Version 1.11</title>
             <pubDate>Wed, 10 Apr 2024 23:50:56 +0200</pubDate>
             <sparkle:version>32</sparkle:version>
@@ -12,34 +26,6 @@
             <description sparkle:format="plain-text">
 - Added new model: gpt-4-turbo.
 - Many bugs were fixed.
-            </description>
-            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.10</title>
-            <pubDate>Mon, 11 Mar 2024 22:26:39 +0100</pubDate>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.10.0/AnySelect.dmg" length="4037030" type="application/octet-stream" sparkle:edSignature="8qep6UNUuz+RTeRO0cGwFcMMDL0z8JRIzPLsXq4lF7VdAcIm3kF6PYInAIC+1/Su3R01LNlVqE5JF+dVdU1PAw=="/>
-            <description sparkle:format="plain-text">
-- Now you can add custom websites in Web Mode.
-- The window in Web Mode now has a button to always keep the window on top.
-- The last selected tab of Web Mode is now persisted between app launches.
-- CHANGED: Clicking the dock icon now shows Web Mode instead of the quick command window.
-- FIXED: Corrected a bug where the host of "ollama" could not be saved. 
-            </description>
-            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 1.9</title>
-            <pubDate>Sun, 03 Mar 2024 01:27:44 +0100</pubDate>
-            <sparkle:version>30</sparkle:version>
-            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/1.9.0/AnySelect.dmg" length="4000372" type="application/octet-stream" sparkle:edSignature="jBEQxmMhADK/XxmVEdi3hpTrtwhxfXtKijo9qiyxVgt1OFPnwHvhaEZDVaCJNnGQBR1/SU5Tlx0gFq8EkmFfAA=="/>
-            <description sparkle:format="plain-text">
-- Added Web Mode for ChatGPT, Gemini, Copilot, and Poe. Repeat your Quick Command shortcut twice to open.
             </description>
             <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
         </item>

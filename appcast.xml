@@ -12,6 +12,7 @@
             <description sparkle:format="plain-text">
 - Now you can hide unused models from the Settings.
 - Activating commands via shortcut now allows you to paste the result inline. Edit your command in Settings to enable this feature.
+- Use the shortcut Command + #numer to quickly switch between models. 
             </description>
             <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
         </item>

@@ -10,7 +10,7 @@
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/2.1.0/AnySelect.dmg" length="5455705" type="application/octet-stream" sparkle:edSignature="gyl5kF5qQxfxhzZCEvK4jnpn//zPBImXphKyQNBlWWaUUnY2dBs4YkINZlho9N99YnyQ9Vrgeq0Ck2W+4eSLBw=="/>
             <description sparkle:format="plain-text">
-- New OpenAI Model: GPT-4 (Hint: You can actually manually add models via Settings)
+- New OpenAI Model: gpt-4o (Hint: You can actually manually add models via Settings)
 - Chat history
 - UI Tweaks
 - Many bugs fixed. 

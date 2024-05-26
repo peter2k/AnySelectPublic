@@ -3,48 +3,16 @@
     <channel>
         <title>AnySelect</title>
         <item>
-            <title>Version 2.1.1</title>
-            <pubDate>Sat, 18 May 2024 21:46:43 +0700</pubDate>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/2.1.1/AnySelect.dmg" length="5355506" type="application/octet-stream" sparkle:edSignature="FuCs2BFs4UpSxJ8xy08jvT59BZ/jLWPxtROs1wUMah5Upachgd1gtZBs7krLIorVKzCycblU9ZXaPbhWkk8GBg=="/>
-            <description sparkle:format="plain-text">
-- Added a setting to show the quick command window instead of web mode when clicking on the dock icon.
-- Bug fixes and improvements have been made. 
-            </description>
+            <title>2.2.0</title>
+            <pubDate>Sun, 26 May 2024 22:45:41 +0700</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 2.1</title>
-            <pubDate>Tue, 14 May 2024 10:20:20 +0700</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/2.1.0/AnySelect.dmg" length="5455705" type="application/octet-stream" sparkle:edSignature="gyl5kF5qQxfxhzZCEvK4jnpn//zPBImXphKyQNBlWWaUUnY2dBs4YkINZlho9N99YnyQ9Vrgeq0Ck2W+4eSLBw=="/>
-            <description sparkle:format="plain-text">
-- New OpenAI Model: gpt-4o (Hint: You can actually manually add models via Settings)
-- Chat history
-- UI Tweaks
-- Many bugs fixed. 
-            </description>
-            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
-        </item>
-        <item>
-            <title>Version 2.0</title>
-            <pubDate>Mon, 06 May 2024 01:24:46 +0700</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/2.0.0/AnySelect.dmg" length="5331385" type="application/octet-stream" sparkle:edSignature="HaqSCW5B87IlMGQ5ugUOSqF4fOHiTX/iCvZ7ILtsQn92yVtizUEIiDlP3NHV3zqoDS1XJV4x5nTr7v7W4sieCQ=="/>
-            <description sparkle:format="plain-text">
-- More providers: Groq, Anthropic, TogetherAI, OpenRouter, PerplexityAI.
-- Conversation mode.
-- Multiple themes for conversation mode.
-- Automatically select the last vision model when a screenshot is captured to use as context.
-- Many bugs fixed. 
-            </description>
-            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
+            <description><![CDATA[- NEW: Take screenshots of app windows to use as context</br>
+- Many bug fixes and improvements 
+]]></description>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/2.2.0/AnySelect.dmg" length="5327536" type="application/octet-stream" sparkle:edSignature="GEzYE1zGm1H4CP7BD2YVG5N5MAx9XNm1LAdtKB0x8wurXvxomtT00/6uUsQqRvBE1pbtCAPNzEyAkDp/UyjBBg=="/>
         </item>
     </channel>
 </rss>

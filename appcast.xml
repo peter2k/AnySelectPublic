@@ -3,6 +3,17 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>2.3.0</title>
+            <pubDate>Wed, 05 Jun 2024 23:16:38 +0200</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[- Added support for Google Generative AI
+]]></description>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/2.3.0/AnySelect.dmg" length="5514104" type="application/octet-stream" sparkle:edSignature="cAlMhNvJ8Yf+DjTQTAi40lB7j8zjk/KKHJCZyfmgnMomN6ojTT2Y6RIfC3PwEQ+oyn7zWZK1DSEbqWp3SBjZAw=="/>
+        </item>
+        <item>
             <title>2.2.1</title>
             <pubDate>Fri, 31 May 2024 05:14:52 +0200</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>

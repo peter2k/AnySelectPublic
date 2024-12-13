@@ -3,6 +3,19 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>2.3.2</title>
+            <pubDate>Fri, 13 Dec 2024 00:53:10 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>2.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[- Removed deprecated models
+- Added new models
+- Fixed performance issues on Sequoia
+- Fixed a bug where the response is sometime not visible ]]></description>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/2.3.2/AnySelect.dmg" length="5267605" type="application/octet-stream" sparkle:edSignature="euysuf99MVTvuxl82RMoa0B+TKh4m5UJ0U+CGavdfRZxUmuOOtpl5MshvgoA34MMzMvtZ+I2hsv09UZ4Uum8Cg=="/>
+        </item>
+        <item>
             <title>2.3.1</title>
             <pubDate>Thu, 18 Jul 2024 23:53:52 +0200</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
@@ -23,17 +36,6 @@
             <description><![CDATA[- Added support for Google Generative AI
 ]]></description>
             <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/2.3.0/AnySelect.dmg" length="5514104" type="application/octet-stream" sparkle:edSignature="cAlMhNvJ8Yf+DjTQTAi40lB7j8zjk/KKHJCZyfmgnMomN6ojTT2Y6RIfC3PwEQ+oyn7zWZK1DSEbqWp3SBjZAw=="/>
-        </item>
-        <item>
-            <title>2.2.1</title>
-            <pubDate>Fri, 31 May 2024 05:14:52 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <description><![CDATA[- Resolved the app crash that occurred immediately upon startup for some users.
-]]></description>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/2.2.1/AnySelect.dmg" length="5329199" type="application/octet-stream" sparkle:edSignature="7J6fO5ffTzYPRCapRY6k546R5L0piHlMouKudZdAzD4U/KInIHlYVTpptqf34bIOIEc2FBfuTQZeQr0DC29NBQ=="/>
         </item>
     </channel>
 </rss>

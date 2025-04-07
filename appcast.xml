@@ -3,6 +3,20 @@
     <channel>
         <title>AnySelect</title>
         <item>
+            <title>2.3.3</title>
+            <pubDate>Mon, 07 Apr 2025 23:27:06 +0200</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>2.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+
+- Improve performance on the chat history list.
+
+]]></description>
+            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/2.3.3/AnySelect.dmg" length="5263707" type="application/octet-stream" sparkle:edSignature="zcEgSquFjqFZ7KaLsHOwFgBT5yjDvQ0F8e7PZwMoR9QOPl6gHVwUJhwOzbuLfGaDDIJDjAlOplH7SvEUvxtcCw=="/>
+        </item>
+        <item>
             <title>2.3.2</title>
             <pubDate>Fri, 13 Dec 2024 00:53:10 +0100</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
@@ -25,17 +39,6 @@
             <description><![CDATA[- Added new openai model: `gpt-4o-mini`
 ]]></description>
             <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/2.3.1/AnySelect.dmg" length="5500361" type="application/octet-stream" sparkle:edSignature="Y761jAB4v5ODMgmgoBcivQ8/eyYHpmNUNzUZPhq57za6DfU2rEo36V54XtWWkwT6OVDVgHwKKsMup9A3q3wNAQ=="/>
-        </item>
-        <item>
-            <title>2.3.0</title>
-            <pubDate>Wed, 05 Jun 2024 23:16:38 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/peter2k/AnySelectPublic/releases/</sparkle:fullReleaseNotesLink>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.4</sparkle:minimumSystemVersion>
-            <description><![CDATA[- Added support for Google Generative AI
-]]></description>
-            <enclosure url="https://github.com/peter2k/AnySelectPublic/releases/download/2.3.0/AnySelect.dmg" length="5514104" type="application/octet-stream" sparkle:edSignature="cAlMhNvJ8Yf+DjTQTAi40lB7j8zjk/KKHJCZyfmgnMomN6ojTT2Y6RIfC3PwEQ+oyn7zWZK1DSEbqWp3SBjZAw=="/>
         </item>
     </channel>
 </rss>
